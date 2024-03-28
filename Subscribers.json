@@ -1,0 +1,217 @@
+[ {
+  "name" : "bob",
+  "surName" : "sonny",
+  "residence" : "Turkey",
+  "phoneNumber" : "+10234",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion 2",
+      "smsCost" : 12.0,
+      "callCostPerMinute" : 121.0,
+      "dataCostPerKiloByte" : 13.0,
+      "smsLimit" : 0.0,
+      "callMinutesLimit" : 120.0,
+      "dataUsageLimit" : 120.0,
+      "tariffTotalPrice" : 146.0
+    },
+    "balance" : 311.0,
+    "totalCallCost" : 605.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 26.0,
+    "totalMessages" : 0.0,
+    "totalCallsMinutes" : 5.0,
+    "totalDataUsageKBS" : 2.0
+  }
+}, {
+  "name" : "subcr",
+  "surName" : "hey",
+  "residence" : "london",
+  "phoneNumber" : "+92",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion 3",
+      "smsCost" : 14.0,
+      "callCostPerMinute" : 12.0,
+      "dataCostPerKiloByte" : 15.0,
+      "smsLimit" : 0.0,
+      "callMinutesLimit" : 10.0,
+      "dataUsageLimit" : 10.0,
+      "tariffTotalPrice" : 41.0
+    },
+    "balance" : 618.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 0.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+}, {
+  "name" : "hue",
+  "surName" : "hue2",
+  "residence" : "pkr",
+  "phoneNumber" : "123456789",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "promotion 12312",
+      "smsCost" : 14.0,
+      "callCostPerMinute" : 12.0,
+      "dataCostPerKiloByte" : 19.0,
+      "smsLimit" : 12.0,
+      "callMinutesLimit" : 14.0,
+      "dataUsageLimit" : 19.0,
+      "tariffTotalPrice" : 45.0
+    },
+    "balance" : 708.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 14.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 1.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+}, {
+  "name" : "subcriber 5",
+  "surName" : "hey",
+  "residence" : "london",
+  "phoneNumber" : "+092006",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion",
+      "smsCost" : 0.34,
+      "callCostPerMinute" : 10.0,
+      "dataCostPerKiloByte" : 0.234,
+      "smsLimit" : 110.0,
+      "callMinutesLimit" : 100.0,
+      "dataUsageLimit" : 110.0,
+      "tariffTotalPrice" : 10.574
+    },
+    "balance" : 0.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 110.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+}, {
+  "name" : "sd",
+  "surName" : "ss",
+  "residence" : "ss",
+  "phoneNumber" : "4334",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion 2",
+      "smsCost" : 12.0,
+      "callCostPerMinute" : 121.0,
+      "dataCostPerKiloByte" : 13.0,
+      "smsLimit" : 110.0,
+      "callMinutesLimit" : 10.0,
+      "dataUsageLimit" : 10.0,
+      "tariffTotalPrice" : 146.0
+    },
+    "balance" : 0.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 0.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+}, {
+  "name" : "name",
+  "surName" : "surname",
+  "residence" : "residance",
+  "phoneNumber" : "13123",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "promotion sim",
+      "smsCost" : 10.0,
+      "callCostPerMinute" : 12.0,
+      "dataCostPerKiloByte" : 10.0,
+      "smsLimit" : 1000.0,
+      "callMinutesLimit" : 3000.0,
+      "dataUsageLimit" : 2000.0,
+      "tariffTotalPrice" : 32.0
+    },
+    "balance" : 0.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 0.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+}, {
+  "name" : "12",
+  "surName" : "123",
+  "residence" : "lula",
+  "phoneNumber" : "+912",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion 2",
+      "smsCost" : 12.0,
+      "callCostPerMinute" : 5.0,
+      "dataCostPerKiloByte" : 13.0,
+      "smsLimit" : 101.0,
+      "callMinutesLimit" : 100.0,
+      "dataUsageLimit" : 110.0,
+      "tariffTotalPrice" : 146.0
+    },
+    "balance" : 0.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 0.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+}, {
+  "name" : "talha",
+  "surName" : "atif",
+  "residence" : "alhoe",
+  "phoneNumber" : "1234567",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion 2",
+      "smsCost" : 12.0,
+      "callCostPerMinute" : 121.0,
+      "dataCostPerKiloByte" : 13.0,
+      "smsLimit" : 110.0,
+      "callMinutesLimit" : 10.0,
+      "dataUsageLimit" : 1110.0,
+      "tariffTotalPrice" : 146.0
+    },
+    "balance" : 0.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 10.0,
+    "totalCallsMinutes" : 10.0,
+    "totalDataUsageKBS" : 10.0
+  }
+}, {
+  "name" : "subcriber",
+  "surName" : "hey",
+  "residence" : "london",
+  "phoneNumber" : "+9230123123323",
+  "account" : {
+    "tariffPlan" : {
+      "name" : "Promotion 2",
+      "smsCost" : 12.0,
+      "callCostPerMinute" : 121.0,
+      "dataCostPerKiloByte" : 13.0,
+      "smsLimit" : 10.0,
+      "callMinutesLimit" : 10.0,
+      "dataUsageLimit" : 10.0,
+      "tariffTotalPrice" : 146.0
+    },
+    "balance" : 0.0,
+    "totalCallCost" : 0.0,
+    "totalMessagesCost" : 0.0,
+    "totalDataUsageCost" : 0.0,
+    "totalMessages" : 0.0,
+    "totalCallsMinutes" : 0.0,
+    "totalDataUsageKBS" : 0.0
+  }
+} ]

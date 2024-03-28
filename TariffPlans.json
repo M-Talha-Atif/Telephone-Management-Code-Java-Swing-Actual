@@ -1,0 +1,64 @@
+[ {
+  "name" : "promotion sim",
+  "smsCost" : 10.0,
+  "callCostPerMinute" : 12.0,
+  "dataCostPerKiloByte" : 10.0,
+  "smsLimit" : 1000.0,
+  "callMinutesLimit" : 3000.0,
+  "dataUsageLimit" : 2000.0,
+  "tariffTotalPrice" : 32.0
+}, {
+  "name" : "Promotion 5",
+  "smsCost" : 12.0,
+  "callCostPerMinute" : 15.0,
+  "dataCostPerKiloByte" : 15.0,
+  "smsLimit" : 10.0,
+  "callMinutesLimit" : 10.0,
+  "dataUsageLimit" : 10.0,
+  "tariffTotalPrice" : 42.0
+}, {
+  "name" : "promotion Make",
+  "smsCost" : 15.0,
+  "callCostPerMinute" : 12.0,
+  "dataCostPerKiloByte" : 12.0,
+  "smsLimit" : 110.0,
+  "callMinutesLimit" : 1100.0,
+  "dataUsageLimit" : 1100.0,
+  "tariffTotalPrice" : 39.0
+}, {
+  "name" : "promotion 12312",
+  "smsCost" : 14.0,
+  "callCostPerMinute" : 12.0,
+  "dataCostPerKiloByte" : 19.0,
+  "smsLimit" : 12.0,
+  "callMinutesLimit" : 14.0,
+  "dataUsageLimit" : 19.0,
+  "tariffTotalPrice" : 45.0
+}, {
+  "name" : "Promotion 3",
+  "smsCost" : 14.0,
+  "callCostPerMinute" : 12.0,
+  "dataCostPerKiloByte" : 15.0,
+  "smsLimit" : 0.0,
+  "callMinutesLimit" : 10.0,
+  "dataUsageLimit" : 10.0,
+  "tariffTotalPrice" : 41.0
+}, {
+  "name" : "Promotion",
+  "smsCost" : 0.34,
+  "callCostPerMinute" : 10.0,
+  "dataCostPerKiloByte" : 0.234,
+  "smsLimit" : 10.0,
+  "callMinutesLimit" : 110.0,
+  "dataUsageLimit" : 110.0,
+  "tariffTotalPrice" : 10.574
+}, {
+  "name" : "Promotion 2",
+  "smsCost" : 12.0,
+  "callCostPerMinute" : 121.0,
+  "dataCostPerKiloByte" : 13.0,
+  "smsLimit" : 0.0,
+  "callMinutesLimit" : 120.0,
+  "dataUsageLimit" : 120.0,
+  "tariffTotalPrice" : 146.0
+} ]
